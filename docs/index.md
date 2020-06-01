@@ -2,7 +2,7 @@
 **Dev:** *CWei*
 **Date:** *05.31.2020*
 ## Introduction to Pickle module & Error Handling
-Now that I have had opportunities to explore the basics of coding with Python on PyCharm, I will explore and explain my use of Python’s “pickle” module and use of error handling within my code. This will be a simple code based on this week’s Lab07-1 script to take a Customer and ID. To share exapmles of error handling and pickle, I will use parts of a simple python file called Customer_ID, saved in my ITFnd100Mod07 repository.
+Now that I have had opportunities to explore the basics of coding with Python on PyCharm, I will explore and explain my use of Python’s “pickle” module and use of error handling within my code. This will be a simple code based on this week’s Lab07-1 script to take a Customer and ID. To share exapmles of error handling and pickle, I will use parts of my [assignment07.py](https://github.com/cVarW/ITFnd100Mod07/blob/master/docs/Assignment07.py).
 
 ## Error Handling
 Now that the core of my script is created (functions to handle the processing and input/output, I/O), I can now address how I could handle possible errors in my code.
