@@ -55,3 +55,5 @@ Python is really a great steppingstone for new coders as well as those with an i
 [data camp:](https://www.datacamp.com/community/tutorials/pickle-python-tutorial) https://www.datacamp.com/community/tutorials/pickle-python-tutorial
 
 [geeks for geeks:](https://www.geeksforgeeks.org/pickle-python-object-serialization/) https://www.geeksforgeeks.org/pickle-python-object-serialization/
+
+#### more detailed explanation fo the code found in [Assignment07.pdf](https://github.com/cVarW/ITFnd100Mod07/blob/master/docs/Assignment07.pdf)
